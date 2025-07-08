@@ -1,0 +1,140 @@
+{
+  "generated": "2025-07-08T18:57:16.106Z",
+  "year": 2025,
+  "totalCantons": 26,
+  "totalOriginalRecords": 2804810,
+  "totalCompressedRecords": 66017,
+  "averageCompression": "97.6",
+  "cantons": {
+    "ag": {
+      "compressionRatio": "82.5",
+      "records": 3472,
+      "file": "ag_withholding.json"
+    },
+    "ai": {
+      "compressionRatio": "95.5",
+      "records": 1664,
+      "file": "ai_withholding.json"
+    },
+    "ar": {
+      "compressionRatio": "96.0",
+      "records": 1799,
+      "file": "ar_withholding.json"
+    },
+    "be": {
+      "compressionRatio": "97.8",
+      "records": 2195,
+      "file": "be_withholding.json"
+    },
+    "bl": {
+      "compressionRatio": "95.4",
+      "records": 2193,
+      "file": "bl_withholding.json"
+    },
+    "bs": {
+      "compressionRatio": "96.8",
+      "records": 2882,
+      "file": "bs_withholding.json"
+    },
+    "fr": {
+      "compressionRatio": "99.2",
+      "records": 2536,
+      "file": "fr_withholding.json"
+    },
+    "ge": {
+      "compressionRatio": "97.6",
+      "records": 765,
+      "file": "ge_withholding.json"
+    },
+    "gl": {
+      "compressionRatio": "96.5",
+      "records": 1675,
+      "file": "gl_withholding.json"
+    },
+    "gr": {
+      "compressionRatio": "97.4",
+      "records": 3279,
+      "file": "gr_withholding.json"
+    },
+    "ju": {
+      "compressionRatio": "99.0",
+      "records": 1227,
+      "file": "ju_withholding.json"
+    },
+    "lu": {
+      "compressionRatio": "97.2",
+      "records": 1775,
+      "file": "lu_withholding.json"
+    },
+    "ne": {
+      "compressionRatio": "99.1",
+      "records": 1193,
+      "file": "ne_withholding.json"
+    },
+    "nw": {
+      "compressionRatio": "99.2",
+      "records": 2639,
+      "file": "nw_withholding.json"
+    },
+    "ow": {
+      "compressionRatio": "93.0",
+      "records": 1848,
+      "file": "ow_withholding.json"
+    },
+    "sg": {
+      "compressionRatio": "95.4",
+      "records": 2555,
+      "file": "sg_withholding.json"
+    },
+    "sh": {
+      "compressionRatio": "97.4",
+      "records": 2612,
+      "file": "sh_withholding.json"
+    },
+    "so": {
+      "compressionRatio": "98.5",
+      "records": 2311,
+      "file": "so_withholding.json"
+    },
+    "sz": {
+      "compressionRatio": "98.4",
+      "records": 2062,
+      "file": "sz_withholding.json"
+    },
+    "tg": {
+      "compressionRatio": "97.3",
+      "records": 2599,
+      "file": "tg_withholding.json"
+    },
+    "ti": {
+      "compressionRatio": "91.1",
+      "records": 14265,
+      "file": "ti_withholding.json"
+    },
+    "ur": {
+      "compressionRatio": "98.6",
+      "records": 2285,
+      "file": "ur_withholding.json"
+    },
+    "vd": {
+      "compressionRatio": "94.2",
+      "records": 1217,
+      "file": "vd_withholding.json"
+    },
+    "vs": {
+      "compressionRatio": "98.4",
+      "records": 1951,
+      "file": "vs_withholding.json"
+    },
+    "zg": {
+      "compressionRatio": "99.4",
+      "records": 1506,
+      "file": "zg_withholding.json"
+    },
+    "zh": {
+      "compressionRatio": "93.9",
+      "records": 1512,
+      "file": "zh_withholding.json"
+    }
+  }
+}
