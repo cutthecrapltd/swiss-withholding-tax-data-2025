@@ -1,0 +1,3932 @@
+{
+  "canton": "ge",
+  "year": 2025,
+  "compressionRatio": "97.6",
+  "originalRecords": 32095,
+  "compressedRecords": 765,
+  "tariffs": {
+    "A0N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 2450,
+        "rate": 0.09,
+        "minTax": 0
+      },
+      {
+        "income": 2550,
+        "rate": 0.29,
+        "minTax": 0
+      },
+      {
+        "income": 3000,
+        "rate": 1.99,
+        "minTax": 0
+      },
+      {
+        "income": 4000,
+        "rate": 5.3,
+        "minTax": 0
+      },
+      {
+        "income": 5000,
+        "rate": 7.83,
+        "minTax": 0
+      },
+      {
+        "income": 6100,
+        "rate": 10.28,
+        "minTax": 0
+      },
+      {
+        "income": 7250,
+        "rate": 12.19,
+        "minTax": 0
+      },
+      {
+        "income": 7500,
+        "rate": 12.53,
+        "minTax": 0
+      },
+      {
+        "income": 8850,
+        "rate": 14.34,
+        "minTax": 0
+      },
+      {
+        "income": 10000,
+        "rate": 15.79,
+        "minTax": 0
+      },
+      {
+        "income": 13750,
+        "rate": 19.33,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 20.37,
+        "minTax": 0
+      },
+      {
+        "income": 18050,
+        "rate": 22.54,
+        "minTax": 0
+      },
+      {
+        "income": 21650,
+        "rate": 24.75,
+        "minTax": 0
+      },
+      {
+        "income": 25750,
+        "rate": 26.56,
+        "minTax": 0
+      },
+      {
+        "income": 32850,
+        "rate": 28.84,
+        "minTax": 0
+      },
+      {
+        "income": 39950,
+        "rate": 30.41,
+        "minTax": 0
+      },
+      {
+        "income": 48950,
+        "rate": 31.98,
+        "minTax": 0
+      },
+      {
+        "income": 60950,
+        "rate": 33.35,
+        "minTax": 0
+      },
+      {
+        "income": 82150,
+        "rate": 35.03,
+        "minTax": 0
+      },
+      {
+        "income": 105150,
+        "rate": 36.25,
+        "minTax": 0
+      },
+      {
+        "income": 139550,
+        "rate": 37.33,
+        "minTax": 0
+      },
+      {
+        "income": 193150,
+        "rate": 38.24,
+        "minTax": 0
+      },
+      {
+        "income": 289150,
+        "rate": 39.03,
+        "minTax": 0
+      },
+      {
+        "income": 469950,
+        "rate": 39.65,
+        "minTax": 0
+      },
+      {
+        "income": 917950,
+        "rate": 40.12,
+        "minTax": 0
+      },
+      {
+        "income": 2543550,
+        "rate": 40.44,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.57,
+        "minTax": 0
+      }
+    ],
+    "A1N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 4000,
+        "rate": 0.18,
+        "minTax": 0
+      },
+      {
+        "income": 4850,
+        "rate": 2.23,
+        "minTax": 0
+      },
+      {
+        "income": 5000,
+        "rate": 2.62,
+        "minTax": 0
+      },
+      {
+        "income": 6900,
+        "rate": 7.14,
+        "minTax": 0
+      },
+      {
+        "income": 7500,
+        "rate": 8.35,
+        "minTax": 0
+      },
+      {
+        "income": 8750,
+        "rate": 10.35,
+        "minTax": 0
+      },
+      {
+        "income": 10000,
+        "rate": 12.2,
+        "minTax": 0
+      },
+      {
+        "income": 11650,
+        "rate": 14.29,
+        "minTax": 0
+      },
+      {
+        "income": 14100,
+        "rate": 16.88,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 17.7,
+        "minTax": 0
+      },
+      {
+        "income": 17550,
+        "rate": 19.89,
+        "minTax": 0
+      },
+      {
+        "income": 22150,
+        "rate": 23.04,
+        "minTax": 0
+      },
+      {
+        "income": 26050,
+        "rate": 25,
+        "minTax": 0
+      },
+      {
+        "income": 32750,
+        "rate": 27.41,
+        "minTax": 0
+      },
+      {
+        "income": 39150,
+        "rate": 29.09,
+        "minTax": 0
+      },
+      {
+        "income": 49150,
+        "rate": 31.04,
+        "minTax": 0
+      },
+      {
+        "income": 60350,
+        "rate": 32.5,
+        "minTax": 0
+      },
+      {
+        "income": 80350,
+        "rate": 34.31,
+        "minTax": 0
+      },
+      {
+        "income": 101350,
+        "rate": 35.62,
+        "minTax": 0
+      },
+      {
+        "income": 132350,
+        "rate": 36.79,
+        "minTax": 0
+      },
+      {
+        "income": 179550,
+        "rate": 37.8,
+        "minTax": 0
+      },
+      {
+        "income": 257150,
+        "rate": 38.65,
+        "minTax": 0
+      },
+      {
+        "income": 402750,
+        "rate": 39.37,
+        "minTax": 0
+      },
+      {
+        "income": 725950,
+        "rate": 39.93,
+        "minTax": 0
+      },
+      {
+        "income": 1673150,
+        "rate": 40.32,
+        "minTax": 0
+      },
+      {
+        "income": 6946750,
+        "rate": 40.55,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.56,
+        "minTax": 0
+      }
+    ],
+    "A2N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 4000,
+        "rate": 0.07,
+        "minTax": 0
+      },
+      {
+        "income": 5000,
+        "rate": 0.18,
+        "minTax": 0
+      },
+      {
+        "income": 5550,
+        "rate": 0.23,
+        "minTax": 0
+      },
+      {
+        "income": 5650,
+        "rate": 0.4,
+        "minTax": 0
+      },
+      {
+        "income": 6650,
+        "rate": 2.46,
+        "minTax": 0
+      },
+      {
+        "income": 7500,
+        "rate": 4.32,
+        "minTax": 0
+      },
+      {
+        "income": 9000,
+        "rate": 7.2,
+        "minTax": 0
+      },
+      {
+        "income": 10000,
+        "rate": 8.81,
+        "minTax": 0
+      },
+      {
+        "income": 12150,
+        "rate": 11.87,
+        "minTax": 0
+      },
+      {
+        "income": 14600,
+        "rate": 14.77,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 15.17,
+        "minTax": 0
+      },
+      {
+        "income": 18300,
+        "rate": 18.21,
+        "minTax": 0
+      },
+      {
+        "income": 22850,
+        "rate": 21.53,
+        "minTax": 0
+      },
+      {
+        "income": 26650,
+        "rate": 23.61,
+        "minTax": 0
+      },
+      {
+        "income": 31550,
+        "rate": 25.57,
+        "minTax": 0
+      },
+      {
+        "income": 37250,
+        "rate": 27.42,
+        "minTax": 0
+      },
+      {
+        "income": 46550,
+        "rate": 29.57,
+        "minTax": 0
+      },
+      {
+        "income": 55950,
+        "rate": 31.15,
+        "minTax": 0
+      },
+      {
+        "income": 71150,
+        "rate": 32.86,
+        "minTax": 0
+      },
+      {
+        "income": 89150,
+        "rate": 34.4,
+        "minTax": 0
+      },
+      {
+        "income": 112550,
+        "rate": 35.69,
+        "minTax": 0
+      },
+      {
+        "income": 145150,
+        "rate": 36.8,
+        "minTax": 0
+      },
+      {
+        "income": 195550,
+        "rate": 37.79,
+        "minTax": 0
+      },
+      {
+        "income": 281150,
+        "rate": 38.65,
+        "minTax": 0
+      },
+      {
+        "income": 437950,
+        "rate": 39.36,
+        "minTax": 0
+      },
+      {
+        "income": 777150,
+        "rate": 39.91,
+        "minTax": 0
+      },
+      {
+        "income": 1724350,
+        "rate": 40.3,
+        "minTax": 0
+      },
+      {
+        "income": 6537150,
+        "rate": 40.54,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.55,
+        "minTax": 0
+      }
+    ],
+    "A3N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 5000,
+        "rate": 0.09,
+        "minTax": 0
+      },
+      {
+        "income": 7050,
+        "rate": 0.26,
+        "minTax": 0
+      },
+      {
+        "income": 7150,
+        "rate": 0.41,
+        "minTax": 0
+      },
+      {
+        "income": 7500,
+        "rate": 1.02,
+        "minTax": 0
+      },
+      {
+        "income": 10000,
+        "rate": 5.58,
+        "minTax": 0
+      },
+      {
+        "income": 11950,
+        "rate": 8.7,
+        "minTax": 0
+      },
+      {
+        "income": 14900,
+        "rate": 12.57,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 12.68,
+        "minTax": 0
+      },
+      {
+        "income": 18900,
+        "rate": 16.54,
+        "minTax": 0
+      },
+      {
+        "income": 23450,
+        "rate": 20.05,
+        "minTax": 0
+      },
+      {
+        "income": 27250,
+        "rate": 22.29,
+        "minTax": 0
+      },
+      {
+        "income": 31850,
+        "rate": 24.29,
+        "minTax": 0
+      },
+      {
+        "income": 38050,
+        "rate": 26.43,
+        "minTax": 0
+      },
+      {
+        "income": 46050,
+        "rate": 28.43,
+        "minTax": 0
+      },
+      {
+        "income": 54750,
+        "rate": 30.11,
+        "minTax": 0
+      },
+      {
+        "income": 66950,
+        "rate": 31.72,
+        "minTax": 0
+      },
+      {
+        "income": 85750,
+        "rate": 33.6,
+        "minTax": 0
+      },
+      {
+        "income": 106550,
+        "rate": 34.97,
+        "minTax": 0
+      },
+      {
+        "income": 136750,
+        "rate": 36.22,
+        "minTax": 0
+      },
+      {
+        "income": 182750,
+        "rate": 37.33,
+        "minTax": 0
+      },
+      {
+        "income": 257150,
+        "rate": 38.28,
+        "minTax": 0
+      },
+      {
+        "income": 386750,
+        "rate": 39.07,
+        "minTax": 0
+      },
+      {
+        "income": 642750,
+        "rate": 39.69,
+        "minTax": 0
+      },
+      {
+        "income": 1289150,
+        "rate": 40.16,
+        "minTax": 0
+      },
+      {
+        "income": 3669950,
+        "rate": 40.46,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.55,
+        "minTax": 0
+      }
+    ],
+    "A4N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 6550,
+        "rate": 0.15,
+        "minTax": 0
+      },
+      {
+        "income": 7500,
+        "rate": 0.22,
+        "minTax": 0
+      },
+      {
+        "income": 8500,
+        "rate": 0.38,
+        "minTax": 0
+      },
+      {
+        "income": 8650,
+        "rate": 0.55,
+        "minTax": 0
+      },
+      {
+        "income": 10000,
+        "rate": 2.69,
+        "minTax": 0
+      },
+      {
+        "income": 13100,
+        "rate": 7.66,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 10.2,
+        "minTax": 0
+      },
+      {
+        "income": 17100,
+        "rate": 12.6,
+        "minTax": 0
+      },
+      {
+        "income": 20550,
+        "rate": 15.91,
+        "minTax": 0
+      },
+      {
+        "income": 24750,
+        "rate": 19.13,
+        "minTax": 0
+      },
+      {
+        "income": 28550,
+        "rate": 21.39,
+        "minTax": 0
+      },
+      {
+        "income": 33250,
+        "rate": 23.48,
+        "minTax": 0
+      },
+      {
+        "income": 39750,
+        "rate": 25.76,
+        "minTax": 0
+      },
+      {
+        "income": 48250,
+        "rate": 27.92,
+        "minTax": 0
+      },
+      {
+        "income": 56950,
+        "rate": 29.61,
+        "minTax": 0
+      },
+      {
+        "income": 69350,
+        "rate": 31.29,
+        "minTax": 0
+      },
+      {
+        "income": 85350,
+        "rate": 33.01,
+        "minTax": 0
+      },
+      {
+        "income": 105150,
+        "rate": 34.44,
+        "minTax": 0
+      },
+      {
+        "income": 132750,
+        "rate": 35.73,
+        "minTax": 0
+      },
+      {
+        "income": 173950,
+        "rate": 36.89,
+        "minTax": 0
+      },
+      {
+        "income": 236350,
+        "rate": 37.87,
+        "minTax": 0
+      },
+      {
+        "income": 337150,
+        "rate": 38.7,
+        "minTax": 0
+      },
+      {
+        "income": 533950,
+        "rate": 39.41,
+        "minTax": 0
+      },
+      {
+        "income": 956350,
+        "rate": 39.95,
+        "minTax": 0
+      },
+      {
+        "income": 2236350,
+        "rate": 40.34,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.54,
+        "minTax": 0
+      }
+    ],
+    "A5N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 7500,
+        "rate": 0.14,
+        "minTax": 0
+      },
+      {
+        "income": 9800,
+        "rate": 0.46,
+        "minTax": 0
+      },
+      {
+        "income": 10000,
+        "rate": 0.49,
+        "minTax": 0
+      },
+      {
+        "income": 11450,
+        "rate": 2.45,
+        "minTax": 0
+      },
+      {
+        "income": 14200,
+        "rate": 6.73,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 7.78,
+        "minTax": 0
+      },
+      {
+        "income": 17400,
+        "rate": 10.75,
+        "minTax": 0
+      },
+      {
+        "income": 20550,
+        "rate": 13.94,
+        "minTax": 0
+      },
+      {
+        "income": 24450,
+        "rate": 17.16,
+        "minTax": 0
+      },
+      {
+        "income": 28050,
+        "rate": 19.57,
+        "minTax": 0
+      },
+      {
+        "income": 32250,
+        "rate": 21.73,
+        "minTax": 0
+      },
+      {
+        "income": 39350,
+        "rate": 24.47,
+        "minTax": 0
+      },
+      {
+        "income": 46050,
+        "rate": 26.39,
+        "minTax": 0
+      },
+      {
+        "income": 54750,
+        "rate": 28.37,
+        "minTax": 0
+      },
+      {
+        "income": 65750,
+        "rate": 30.13,
+        "minTax": 0
+      },
+      {
+        "income": 83950,
+        "rate": 32.32,
+        "minTax": 0
+      },
+      {
+        "income": 102550,
+        "rate": 33.82,
+        "minTax": 0
+      },
+      {
+        "income": 128350,
+        "rate": 35.19,
+        "minTax": 0
+      },
+      {
+        "income": 164750,
+        "rate": 36.39,
+        "minTax": 0
+      },
+      {
+        "income": 219550,
+        "rate": 37.45,
+        "minTax": 0
+      },
+      {
+        "income": 306750,
+        "rate": 38.35,
+        "minTax": 0
+      },
+      {
+        "income": 457150,
+        "rate": 39.1,
+        "minTax": 0
+      },
+      {
+        "income": 777150,
+        "rate": 39.73,
+        "minTax": 0
+      },
+      {
+        "income": 1570750,
+        "rate": 40.18,
+        "minTax": 0
+      },
+      {
+        "income": 4693950,
+        "rate": 40.47,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.54,
+        "minTax": 0
+      }
+    ],
+    "B0N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 4600,
+        "rate": 0.12,
+        "minTax": 0
+      },
+      {
+        "income": 5000,
+        "rate": 0.18,
+        "minTax": 0
+      },
+      {
+        "income": 5150,
+        "rate": 0.42,
+        "minTax": 0
+      },
+      {
+        "income": 6200,
+        "rate": 2.4,
+        "minTax": 0
+      },
+      {
+        "income": 7500,
+        "rate": 4.89,
+        "minTax": 0
+      },
+      {
+        "income": 8550,
+        "rate": 6.64,
+        "minTax": 0
+      },
+      {
+        "income": 10000,
+        "rate": 8.76,
+        "minTax": 0
+      },
+      {
+        "income": 11750,
+        "rate": 10.97,
+        "minTax": 0
+      },
+      {
+        "income": 13800,
+        "rate": 13.18,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 14.35,
+        "minTax": 0
+      },
+      {
+        "income": 18150,
+        "rate": 17.43,
+        "minTax": 0
+      },
+      {
+        "income": 20250,
+        "rate": 19.11,
+        "minTax": 0
+      },
+      {
+        "income": 22750,
+        "rate": 20.69,
+        "minTax": 0
+      },
+      {
+        "income": 25550,
+        "rate": 22.09,
+        "minTax": 0
+      },
+      {
+        "income": 28850,
+        "rate": 23.53,
+        "minTax": 0
+      },
+      {
+        "income": 32750,
+        "rate": 24.87,
+        "minTax": 0
+      },
+      {
+        "income": 38450,
+        "rate": 26.44,
+        "minTax": 0
+      },
+      {
+        "income": 44150,
+        "rate": 27.67,
+        "minTax": 0
+      },
+      {
+        "income": 51750,
+        "rate": 28.9,
+        "minTax": 0
+      },
+      {
+        "income": 65550,
+        "rate": 30.6,
+        "minTax": 0
+      },
+      {
+        "income": 79950,
+        "rate": 32,
+        "minTax": 0
+      },
+      {
+        "income": 90950,
+        "rate": 33.1,
+        "minTax": 0
+      },
+      {
+        "income": 107750,
+        "rate": 34.17,
+        "minTax": 0
+      },
+      {
+        "income": 136350,
+        "rate": 35.46,
+        "minTax": 0
+      },
+      {
+        "income": 165150,
+        "rate": 36.36,
+        "minTax": 0
+      },
+      {
+        "income": 202750,
+        "rate": 37.15,
+        "minTax": 0
+      },
+      {
+        "income": 260350,
+        "rate": 37.92,
+        "minTax": 0
+      },
+      {
+        "income": 346750,
+        "rate": 38.59,
+        "minTax": 0
+      },
+      {
+        "income": 476350,
+        "rate": 39.15,
+        "minTax": 0
+      },
+      {
+        "income": 713150,
+        "rate": 39.64,
+        "minTax": 0
+      },
+      {
+        "income": 1186750,
+        "rate": 40.03,
+        "minTax": 0
+      },
+      {
+        "income": 2236350,
+        "rate": 40.31,
+        "minTax": 0
+      },
+      {
+        "income": 6946750,
+        "rate": 40.52,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.54,
+        "minTax": 0
+      }
+    ],
+    "B1N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 6600,
+        "rate": 0.09,
+        "minTax": 0
+      },
+      {
+        "income": 7500,
+        "rate": 1.5,
+        "minTax": 0
+      },
+      {
+        "income": 9450,
+        "rate": 4.78,
+        "minTax": 0
+      },
+      {
+        "income": 10000,
+        "rate": 5.61,
+        "minTax": 0
+      },
+      {
+        "income": 12300,
+        "rate": 8.73,
+        "minTax": 0
+      },
+      {
+        "income": 14100,
+        "rate": 10.91,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 11.88,
+        "minTax": 0
+      },
+      {
+        "income": 19050,
+        "rate": 15.98,
+        "minTax": 0
+      },
+      {
+        "income": 20850,
+        "rate": 17.51,
+        "minTax": 0
+      },
+      {
+        "income": 23350,
+        "rate": 19.22,
+        "minTax": 0
+      },
+      {
+        "income": 26250,
+        "rate": 20.79,
+        "minTax": 0
+      },
+      {
+        "income": 30150,
+        "rate": 22.56,
+        "minTax": 0
+      },
+      {
+        "income": 34250,
+        "rate": 24.02,
+        "minTax": 0
+      },
+      {
+        "income": 39850,
+        "rate": 25.63,
+        "minTax": 0
+      },
+      {
+        "income": 45650,
+        "rate": 26.94,
+        "minTax": 0
+      },
+      {
+        "income": 52550,
+        "rate": 28.13,
+        "minTax": 0
+      },
+      {
+        "income": 65750,
+        "rate": 29.89,
+        "minTax": 0
+      },
+      {
+        "income": 81350,
+        "rate": 31.55,
+        "minTax": 0
+      },
+      {
+        "income": 91550,
+        "rate": 32.61,
+        "minTax": 0
+      },
+      {
+        "income": 107350,
+        "rate": 33.69,
+        "minTax": 0
+      },
+      {
+        "income": 134750,
+        "rate": 35.03,
+        "minTax": 0
+      },
+      {
+        "income": 162350,
+        "rate": 35.98,
+        "minTax": 0
+      },
+      {
+        "income": 198750,
+        "rate": 36.83,
+        "minTax": 0
+      },
+      {
+        "income": 249150,
+        "rate": 37.6,
+        "minTax": 0
+      },
+      {
+        "income": 322750,
+        "rate": 38.29,
+        "minTax": 0
+      },
+      {
+        "income": 434750,
+        "rate": 38.89,
+        "minTax": 0
+      },
+      {
+        "income": 610750,
+        "rate": 39.39,
+        "minTax": 0
+      },
+      {
+        "income": 917950,
+        "rate": 39.8,
+        "minTax": 0
+      },
+      {
+        "income": 1570750,
+        "rate": 40.15,
+        "minTax": 0
+      },
+      {
+        "income": 3465150,
+        "rate": 40.41,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.53,
+        "minTax": 0
+      }
+    ],
+    "B2N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 8100,
+        "rate": 0.09,
+        "minTax": 0
+      },
+      {
+        "income": 9300,
+        "rate": 1.66,
+        "minTax": 0
+      },
+      {
+        "income": 10000,
+        "rate": 2.72,
+        "minTax": 0
+      },
+      {
+        "income": 11500,
+        "rate": 4.93,
+        "minTax": 0
+      },
+      {
+        "income": 14300,
+        "rate": 8.61,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 9.45,
+        "minTax": 0
+      },
+      {
+        "income": 18800,
+        "rate": 13.54,
+        "minTax": 0
+      },
+      {
+        "income": 20850,
+        "rate": 15.49,
+        "minTax": 0
+      },
+      {
+        "income": 23150,
+        "rate": 17.28,
+        "minTax": 0
+      },
+      {
+        "income": 26050,
+        "rate": 19.08,
+        "minTax": 0
+      },
+      {
+        "income": 30450,
+        "rate": 21.24,
+        "minTax": 0
+      },
+      {
+        "income": 34350,
+        "rate": 22.77,
+        "minTax": 0
+      },
+      {
+        "income": 40250,
+        "rate": 24.6,
+        "minTax": 0
+      },
+      {
+        "income": 46050,
+        "rate": 26.03,
+        "minTax": 0
+      },
+      {
+        "income": 52750,
+        "rate": 27.3,
+        "minTax": 0
+      },
+      {
+        "income": 67150,
+        "rate": 29.34,
+        "minTax": 0
+      },
+      {
+        "income": 83750,
+        "rate": 31.24,
+        "minTax": 0
+      },
+      {
+        "income": 92750,
+        "rate": 32.18,
+        "minTax": 0
+      },
+      {
+        "income": 108350,
+        "rate": 33.3,
+        "minTax": 0
+      },
+      {
+        "income": 135150,
+        "rate": 34.68,
+        "minTax": 0
+      },
+      {
+        "income": 161950,
+        "rate": 35.66,
+        "minTax": 0
+      },
+      {
+        "income": 199550,
+        "rate": 36.6,
+        "minTax": 0
+      },
+      {
+        "income": 249950,
+        "rate": 37.41,
+        "minTax": 0
+      },
+      {
+        "income": 319550,
+        "rate": 38.11,
+        "minTax": 0
+      },
+      {
+        "income": 428350,
+        "rate": 38.75,
+        "minTax": 0
+      },
+      {
+        "income": 597950,
+        "rate": 39.28,
+        "minTax": 0
+      },
+      {
+        "income": 905150,
+        "rate": 39.74,
+        "minTax": 0
+      },
+      {
+        "income": 1570750,
+        "rate": 40.12,
+        "minTax": 0
+      },
+      {
+        "income": 3465150,
+        "rate": 40.4,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.52,
+        "minTax": 0
+      }
+    ],
+    "B3N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 9600,
+        "rate": 0.1,
+        "minTax": 0
+      },
+      {
+        "income": 10000,
+        "rate": 0.53,
+        "minTax": 0
+      },
+      {
+        "income": 10900,
+        "rate": 1.55,
+        "minTax": 0
+      },
+      {
+        "income": 13300,
+        "rate": 4.86,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 7.05,
+        "minTax": 0
+      },
+      {
+        "income": 17300,
+        "rate": 9.73,
+        "minTax": 0
+      },
+      {
+        "income": 19950,
+        "rate": 12.63,
+        "minTax": 0
+      },
+      {
+        "income": 22550,
+        "rate": 14.98,
+        "minTax": 0
+      },
+      {
+        "income": 25050,
+        "rate": 16.83,
+        "minTax": 0
+      },
+      {
+        "income": 27950,
+        "rate": 18.55,
+        "minTax": 0
+      },
+      {
+        "income": 32550,
+        "rate": 20.76,
+        "minTax": 0
+      },
+      {
+        "income": 36650,
+        "rate": 22.32,
+        "minTax": 0
+      },
+      {
+        "income": 42350,
+        "rate": 24.08,
+        "minTax": 0
+      },
+      {
+        "income": 48050,
+        "rate": 25.49,
+        "minTax": 0
+      },
+      {
+        "income": 54350,
+        "rate": 26.71,
+        "minTax": 0
+      },
+      {
+        "income": 68350,
+        "rate": 28.78,
+        "minTax": 0
+      },
+      {
+        "income": 91950,
+        "rate": 31.58,
+        "minTax": 0
+      },
+      {
+        "income": 106550,
+        "rate": 32.73,
+        "minTax": 0
+      },
+      {
+        "income": 127950,
+        "rate": 33.96,
+        "minTax": 0
+      },
+      {
+        "income": 151950,
+        "rate": 35.01,
+        "minTax": 0
+      },
+      {
+        "income": 181950,
+        "rate": 35.94,
+        "minTax": 0
+      },
+      {
+        "income": 224350,
+        "rate": 36.82,
+        "minTax": 0
+      },
+      {
+        "income": 281150,
+        "rate": 37.59,
+        "minTax": 0
+      },
+      {
+        "income": 370750,
+        "rate": 38.33,
+        "minTax": 0
+      },
+      {
+        "income": 508350,
+        "rate": 38.95,
+        "minTax": 0
+      },
+      {
+        "income": 751550,
+        "rate": 39.49,
+        "minTax": 0
+      },
+      {
+        "income": 1212350,
+        "rate": 39.92,
+        "minTax": 0
+      },
+      {
+        "income": 2236350,
+        "rate": 40.25,
+        "minTax": 0
+      },
+      {
+        "income": 5717950,
+        "rate": 40.48,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.52,
+        "minTax": 0
+      }
+    ],
+    "B4N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 11150,
+        "rate": 0.15,
+        "minTax": 0
+      },
+      {
+        "income": 12350,
+        "rate": 1.34,
+        "minTax": 0
+      },
+      {
+        "income": 14800,
+        "rate": 4.53,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 4.78,
+        "minTax": 0
+      },
+      {
+        "income": 18050,
+        "rate": 8.44,
+        "minTax": 0
+      },
+      {
+        "income": 20350,
+        "rate": 11.05,
+        "minTax": 0
+      },
+      {
+        "income": 23150,
+        "rate": 13.64,
+        "minTax": 0
+      },
+      {
+        "income": 25550,
+        "rate": 15.5,
+        "minTax": 0
+      },
+      {
+        "income": 28150,
+        "rate": 17.16,
+        "minTax": 0
+      },
+      {
+        "income": 31450,
+        "rate": 18.88,
+        "minTax": 0
+      },
+      {
+        "income": 35050,
+        "rate": 20.5,
+        "minTax": 0
+      },
+      {
+        "income": 39450,
+        "rate": 22.09,
+        "minTax": 0
+      },
+      {
+        "income": 44550,
+        "rate": 23.64,
+        "minTax": 0
+      },
+      {
+        "income": 50750,
+        "rate": 25.16,
+        "minTax": 0
+      },
+      {
+        "income": 58150,
+        "rate": 26.53,
+        "minTax": 0
+      },
+      {
+        "income": 70750,
+        "rate": 28.4,
+        "minTax": 0
+      },
+      {
+        "income": 91950,
+        "rate": 31.05,
+        "minTax": 0
+      },
+      {
+        "income": 106150,
+        "rate": 32.24,
+        "minTax": 0
+      },
+      {
+        "income": 124150,
+        "rate": 33.36,
+        "minTax": 0
+      },
+      {
+        "income": 146750,
+        "rate": 34.47,
+        "minTax": 0
+      },
+      {
+        "income": 176350,
+        "rate": 35.51,
+        "minTax": 0
+      },
+      {
+        "income": 216350,
+        "rate": 36.45,
+        "minTax": 0
+      },
+      {
+        "income": 269950,
+        "rate": 37.28,
+        "minTax": 0
+      },
+      {
+        "income": 345150,
+        "rate": 38.01,
+        "minTax": 0
+      },
+      {
+        "income": 457150,
+        "rate": 38.65,
+        "minTax": 0
+      },
+      {
+        "income": 629950,
+        "rate": 39.19,
+        "minTax": 0
+      },
+      {
+        "income": 917950,
+        "rate": 39.64,
+        "minTax": 0
+      },
+      {
+        "income": 1519550,
+        "rate": 40.04,
+        "minTax": 0
+      },
+      {
+        "income": 2953150,
+        "rate": 40.32,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.51,
+        "minTax": 0
+      }
+    ],
+    "B5N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 12600,
+        "rate": 0.11,
+        "minTax": 0
+      },
+      {
+        "income": 13750,
+        "rate": 1.17,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 2.73,
+        "minTax": 0
+      },
+      {
+        "income": 20850,
+        "rate": 9.64,
+        "minTax": 0
+      },
+      {
+        "income": 23050,
+        "rate": 11.76,
+        "minTax": 0
+      },
+      {
+        "income": 25750,
+        "rate": 14.01,
+        "minTax": 0
+      },
+      {
+        "income": 28350,
+        "rate": 15.79,
+        "minTax": 0
+      },
+      {
+        "income": 31350,
+        "rate": 17.48,
+        "minTax": 0
+      },
+      {
+        "income": 35950,
+        "rate": 19.64,
+        "minTax": 0
+      },
+      {
+        "income": 40250,
+        "rate": 21.25,
+        "minTax": 0
+      },
+      {
+        "income": 45950,
+        "rate": 23.02,
+        "minTax": 0
+      },
+      {
+        "income": 51550,
+        "rate": 24.44,
+        "minTax": 0
+      },
+      {
+        "income": 59150,
+        "rate": 25.92,
+        "minTax": 0
+      },
+      {
+        "income": 71550,
+        "rate": 27.83,
+        "minTax": 0
+      },
+      {
+        "income": 89750,
+        "rate": 30.25,
+        "minTax": 0
+      },
+      {
+        "income": 100350,
+        "rate": 31.31,
+        "minTax": 0
+      },
+      {
+        "income": 116350,
+        "rate": 32.5,
+        "minTax": 0
+      },
+      {
+        "income": 142350,
+        "rate": 33.94,
+        "minTax": 0
+      },
+      {
+        "income": 170750,
+        "rate": 35.05,
+        "minTax": 0
+      },
+      {
+        "income": 205950,
+        "rate": 36,
+        "minTax": 0
+      },
+      {
+        "income": 255550,
+        "rate": 36.9,
+        "minTax": 0
+      },
+      {
+        "income": 324350,
+        "rate": 37.69,
+        "minTax": 0
+      },
+      {
+        "income": 418750,
+        "rate": 38.35,
+        "minTax": 0
+      },
+      {
+        "income": 565950,
+        "rate": 38.95,
+        "minTax": 0
+      },
+      {
+        "income": 815550,
+        "rate": 39.46,
+        "minTax": 0
+      },
+      {
+        "income": 1263550,
+        "rate": 39.87,
+        "minTax": 0
+      },
+      {
+        "income": 2236350,
+        "rate": 40.2,
+        "minTax": 0
+      },
+      {
+        "income": 4898750,
+        "rate": 40.43,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.51,
+        "minTax": 0
+      }
+    ],
+    "C0N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 2600,
+        "rate": 0.17,
+        "minTax": 0
+      },
+      {
+        "income": 2650,
+        "rate": 0.36,
+        "minTax": 0
+      },
+      {
+        "income": 3000,
+        "rate": 1.59,
+        "minTax": 0
+      },
+      {
+        "income": 3950,
+        "rate": 4.85,
+        "minTax": 0
+      },
+      {
+        "income": 4000,
+        "rate": 5,
+        "minTax": 0
+      },
+      {
+        "income": 5000,
+        "rate": 7.81,
+        "minTax": 0
+      },
+      {
+        "income": 5800,
+        "rate": 9.7,
+        "minTax": 0
+      },
+      {
+        "income": 7450,
+        "rate": 11.66,
+        "minTax": 0
+      },
+      {
+        "income": 7500,
+        "rate": 11.72,
+        "minTax": 0
+      },
+      {
+        "income": 9400,
+        "rate": 13.54,
+        "minTax": 0
+      },
+      {
+        "income": 10000,
+        "rate": 14.05,
+        "minTax": 0
+      },
+      {
+        "income": 12050,
+        "rate": 15.85,
+        "minTax": 0
+      },
+      {
+        "income": 14100,
+        "rate": 17.79,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 18.53,
+        "minTax": 0
+      },
+      {
+        "income": 17300,
+        "rate": 20.13,
+        "minTax": 0
+      },
+      {
+        "income": 20150,
+        "rate": 21.72,
+        "minTax": 0
+      },
+      {
+        "income": 23450,
+        "rate": 23.27,
+        "minTax": 0
+      },
+      {
+        "income": 27250,
+        "rate": 24.66,
+        "minTax": 0
+      },
+      {
+        "income": 32350,
+        "rate": 26.17,
+        "minTax": 0
+      },
+      {
+        "income": 37750,
+        "rate": 27.43,
+        "minTax": 0
+      },
+      {
+        "income": 44450,
+        "rate": 28.61,
+        "minTax": 0
+      },
+      {
+        "income": 57950,
+        "rate": 30.39,
+        "minTax": 0
+      },
+      {
+        "income": 69550,
+        "rate": 31.51,
+        "minTax": 0
+      },
+      {
+        "income": 77350,
+        "rate": 32.2,
+        "minTax": 0
+      },
+      {
+        "income": 87750,
+        "rate": 33.21,
+        "minTax": 0
+      },
+      {
+        "income": 104150,
+        "rate": 34.24,
+        "minTax": 0
+      },
+      {
+        "income": 133150,
+        "rate": 35.55,
+        "minTax": 0
+      },
+      {
+        "income": 163150,
+        "rate": 36.46,
+        "minTax": 0
+      },
+      {
+        "income": 201950,
+        "rate": 37.25,
+        "minTax": 0
+      },
+      {
+        "income": 260350,
+        "rate": 38,
+        "minTax": 0
+      },
+      {
+        "income": 345150,
+        "rate": 38.64,
+        "minTax": 0
+      },
+      {
+        "income": 479550,
+        "rate": 39.19,
+        "minTax": 0
+      },
+      {
+        "income": 713150,
+        "rate": 39.66,
+        "minTax": 0
+      },
+      {
+        "income": 1161150,
+        "rate": 40.03,
+        "minTax": 0
+      },
+      {
+        "income": 2338750,
+        "rate": 40.33,
+        "minTax": 0
+      },
+      {
+        "income": 6537150,
+        "rate": 40.52,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.54,
+        "minTax": 0
+      }
+    ],
+    "C1N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 3350,
+        "rate": 0.08,
+        "minTax": 0
+      },
+      {
+        "income": 3400,
+        "rate": 0.24,
+        "minTax": 0
+      },
+      {
+        "income": 4000,
+        "rate": 1.92,
+        "minTax": 0
+      },
+      {
+        "income": 5000,
+        "rate": 4.77,
+        "minTax": 0
+      },
+      {
+        "income": 5800,
+        "rate": 6.81,
+        "minTax": 0
+      },
+      {
+        "income": 7300,
+        "rate": 8.94,
+        "minTax": 0
+      },
+      {
+        "income": 7500,
+        "rate": 9.21,
+        "minTax": 0
+      },
+      {
+        "income": 9250,
+        "rate": 11.24,
+        "minTax": 0
+      },
+      {
+        "income": 10000,
+        "rate": 12,
+        "minTax": 0
+      },
+      {
+        "income": 12900,
+        "rate": 14.74,
+        "minTax": 0
+      },
+      {
+        "income": 14800,
+        "rate": 16.66,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 16.84,
+        "minTax": 0
+      },
+      {
+        "income": 17150,
+        "rate": 18.56,
+        "minTax": 0
+      },
+      {
+        "income": 19600,
+        "rate": 20.14,
+        "minTax": 0
+      },
+      {
+        "income": 23150,
+        "rate": 22,
+        "minTax": 0
+      },
+      {
+        "income": 26550,
+        "rate": 23.44,
+        "minTax": 0
+      },
+      {
+        "income": 31850,
+        "rate": 25.19,
+        "minTax": 0
+      },
+      {
+        "income": 37650,
+        "rate": 26.69,
+        "minTax": 0
+      },
+      {
+        "income": 44050,
+        "rate": 27.94,
+        "minTax": 0
+      },
+      {
+        "income": 52550,
+        "rate": 29.18,
+        "minTax": 0
+      },
+      {
+        "income": 62150,
+        "rate": 30.39,
+        "minTax": 0
+      },
+      {
+        "income": 74150,
+        "rate": 31.49,
+        "minTax": 0
+      },
+      {
+        "income": 87750,
+        "rate": 32.89,
+        "minTax": 0
+      },
+      {
+        "income": 104350,
+        "rate": 33.99,
+        "minTax": 0
+      },
+      {
+        "income": 132750,
+        "rate": 35.32,
+        "minTax": 0
+      },
+      {
+        "income": 161150,
+        "rate": 36.24,
+        "minTax": 0
+      },
+      {
+        "income": 198750,
+        "rate": 37.06,
+        "minTax": 0
+      },
+      {
+        "income": 253950,
+        "rate": 37.83,
+        "minTax": 0
+      },
+      {
+        "income": 333950,
+        "rate": 38.49,
+        "minTax": 0
+      },
+      {
+        "income": 463550,
+        "rate": 39.09,
+        "minTax": 0
+      },
+      {
+        "income": 687550,
+        "rate": 39.59,
+        "minTax": 0
+      },
+      {
+        "income": 1135550,
+        "rate": 40,
+        "minTax": 0
+      },
+      {
+        "income": 2236350,
+        "rate": 40.31,
+        "minTax": 0
+      },
+      {
+        "income": 6537150,
+        "rate": 40.51,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.53,
+        "minTax": 0
+      }
+    ],
+    "C2N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 4150,
+        "rate": 0.15,
+        "minTax": 0
+      },
+      {
+        "income": 5000,
+        "rate": 2.18,
+        "minTax": 0
+      },
+      {
+        "income": 5800,
+        "rate": 4.16,
+        "minTax": 0
+      },
+      {
+        "income": 7500,
+        "rate": 6.71,
+        "minTax": 0
+      },
+      {
+        "income": 9200,
+        "rate": 8.97,
+        "minTax": 0
+      },
+      {
+        "income": 10000,
+        "rate": 9.92,
+        "minTax": 0
+      },
+      {
+        "income": 12700,
+        "rate": 12.69,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 15.11,
+        "minTax": 0
+      },
+      {
+        "income": 17000,
+        "rate": 16.93,
+        "minTax": 0
+      },
+      {
+        "income": 19300,
+        "rate": 18.63,
+        "minTax": 0
+      },
+      {
+        "income": 21650,
+        "rate": 20.06,
+        "minTax": 0
+      },
+      {
+        "income": 25850,
+        "rate": 22.14,
+        "minTax": 0
+      },
+      {
+        "income": 29750,
+        "rate": 23.64,
+        "minTax": 0
+      },
+      {
+        "income": 35350,
+        "rate": 25.36,
+        "minTax": 0
+      },
+      {
+        "income": 40850,
+        "rate": 26.69,
+        "minTax": 0
+      },
+      {
+        "income": 47450,
+        "rate": 27.91,
+        "minTax": 0
+      },
+      {
+        "income": 60750,
+        "rate": 29.77,
+        "minTax": 0
+      },
+      {
+        "income": 71550,
+        "rate": 30.89,
+        "minTax": 0
+      },
+      {
+        "income": 78150,
+        "rate": 31.54,
+        "minTax": 0
+      },
+      {
+        "income": 88750,
+        "rate": 32.65,
+        "minTax": 0
+      },
+      {
+        "income": 104350,
+        "rate": 33.72,
+        "minTax": 0
+      },
+      {
+        "income": 132750,
+        "rate": 35.11,
+        "minTax": 0
+      },
+      {
+        "income": 161150,
+        "rate": 36.07,
+        "minTax": 0
+      },
+      {
+        "income": 198750,
+        "rate": 36.92,
+        "minTax": 0
+      },
+      {
+        "income": 249950,
+        "rate": 37.67,
+        "minTax": 0
+      },
+      {
+        "income": 324350,
+        "rate": 38.35,
+        "minTax": 0
+      },
+      {
+        "income": 444350,
+        "rate": 38.96,
+        "minTax": 0
+      },
+      {
+        "income": 629950,
+        "rate": 39.45,
+        "minTax": 0
+      },
+      {
+        "income": 981950,
+        "rate": 39.87,
+        "minTax": 0
+      },
+      {
+        "income": 1775550,
+        "rate": 40.21,
+        "minTax": 0
+      },
+      {
+        "income": 4079550,
+        "rate": 40.44,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.53,
+        "minTax": 0
+      }
+    ],
+    "C3N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 4950,
+        "rate": 0.2,
+        "minTax": 0
+      },
+      {
+        "income": 5000,
+        "rate": 0.31,
+        "minTax": 0
+      },
+      {
+        "income": 5850,
+        "rate": 1.99,
+        "minTax": 0
+      },
+      {
+        "income": 7250,
+        "rate": 3.95,
+        "minTax": 0
+      },
+      {
+        "income": 7500,
+        "rate": 4.33,
+        "minTax": 0
+      },
+      {
+        "income": 9800,
+        "rate": 7.52,
+        "minTax": 0
+      },
+      {
+        "income": 10000,
+        "rate": 7.78,
+        "minTax": 0
+      },
+      {
+        "income": 11950,
+        "rate": 10.08,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 13.35,
+        "minTax": 0
+      },
+      {
+        "income": 17200,
+        "rate": 15.55,
+        "minTax": 0
+      },
+      {
+        "income": 19400,
+        "rate": 17.34,
+        "minTax": 0
+      },
+      {
+        "income": 21550,
+        "rate": 18.8,
+        "minTax": 0
+      },
+      {
+        "income": 24550,
+        "rate": 20.43,
+        "minTax": 0
+      },
+      {
+        "income": 27850,
+        "rate": 21.99,
+        "minTax": 0
+      },
+      {
+        "income": 31750,
+        "rate": 23.44,
+        "minTax": 0
+      },
+      {
+        "income": 36950,
+        "rate": 25.03,
+        "minTax": 0
+      },
+      {
+        "income": 42250,
+        "rate": 26.33,
+        "minTax": 0
+      },
+      {
+        "income": 49350,
+        "rate": 27.67,
+        "minTax": 0
+      },
+      {
+        "income": 63150,
+        "rate": 29.6,
+        "minTax": 0
+      },
+      {
+        "income": 73750,
+        "rate": 30.7,
+        "minTax": 0
+      },
+      {
+        "income": 89350,
+        "rate": 32.39,
+        "minTax": 0
+      },
+      {
+        "income": 105750,
+        "rate": 33.54,
+        "minTax": 0
+      },
+      {
+        "income": 133550,
+        "rate": 34.93,
+        "minTax": 0
+      },
+      {
+        "income": 160350,
+        "rate": 35.87,
+        "minTax": 0
+      },
+      {
+        "income": 195550,
+        "rate": 36.72,
+        "minTax": 0
+      },
+      {
+        "income": 246750,
+        "rate": 37.53,
+        "minTax": 0
+      },
+      {
+        "income": 319550,
+        "rate": 38.23,
+        "minTax": 0
+      },
+      {
+        "income": 425150,
+        "rate": 38.82,
+        "minTax": 0
+      },
+      {
+        "income": 597950,
+        "rate": 39.34,
+        "minTax": 0
+      },
+      {
+        "income": 917950,
+        "rate": 39.79,
+        "minTax": 0
+      },
+      {
+        "income": 1621950,
+        "rate": 40.15,
+        "minTax": 0
+      },
+      {
+        "income": 3465150,
+        "rate": 40.4,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.53,
+        "minTax": 0
+      }
+    ],
+    "C4N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 5700,
+        "rate": 0.15,
+        "minTax": 0
+      },
+      {
+        "income": 7300,
+        "rate": 1.97,
+        "minTax": 0
+      },
+      {
+        "income": 7500,
+        "rate": 2.22,
+        "minTax": 0
+      },
+      {
+        "income": 8650,
+        "rate": 3.76,
+        "minTax": 0
+      },
+      {
+        "income": 10000,
+        "rate": 5.63,
+        "minTax": 0
+      },
+      {
+        "income": 12300,
+        "rate": 8.57,
+        "minTax": 0
+      },
+      {
+        "income": 14700,
+        "rate": 11.29,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 11.63,
+        "minTax": 0
+      },
+      {
+        "income": 17150,
+        "rate": 13.91,
+        "minTax": 0
+      },
+      {
+        "income": 19250,
+        "rate": 15.83,
+        "minTax": 0
+      },
+      {
+        "income": 21350,
+        "rate": 17.43,
+        "minTax": 0
+      },
+      {
+        "income": 24050,
+        "rate": 19.09,
+        "minTax": 0
+      },
+      {
+        "income": 28550,
+        "rate": 21.32,
+        "minTax": 0
+      },
+      {
+        "income": 32450,
+        "rate": 22.84,
+        "minTax": 0
+      },
+      {
+        "income": 38150,
+        "rate": 24.63,
+        "minTax": 0
+      },
+      {
+        "income": 43950,
+        "rate": 26.06,
+        "minTax": 0
+      },
+      {
+        "income": 51150,
+        "rate": 27.42,
+        "minTax": 0
+      },
+      {
+        "income": 64750,
+        "rate": 29.35,
+        "minTax": 0
+      },
+      {
+        "income": 80750,
+        "rate": 31.12,
+        "minTax": 0
+      },
+      {
+        "income": 90550,
+        "rate": 32.17,
+        "minTax": 0
+      },
+      {
+        "income": 105950,
+        "rate": 33.29,
+        "minTax": 0
+      },
+      {
+        "income": 131550,
+        "rate": 34.63,
+        "minTax": 0
+      },
+      {
+        "income": 157150,
+        "rate": 35.6,
+        "minTax": 0
+      },
+      {
+        "income": 190750,
+        "rate": 36.48,
+        "minTax": 0
+      },
+      {
+        "income": 237950,
+        "rate": 37.3,
+        "minTax": 0
+      },
+      {
+        "income": 301950,
+        "rate": 38,
+        "minTax": 0
+      },
+      {
+        "income": 405950,
+        "rate": 38.67,
+        "minTax": 0
+      },
+      {
+        "income": 572350,
+        "rate": 39.24,
+        "minTax": 0
+      },
+      {
+        "income": 841150,
+        "rate": 39.68,
+        "minTax": 0
+      },
+      {
+        "income": 1417150,
+        "rate": 40.07,
+        "minTax": 0
+      },
+      {
+        "income": 2850750,
+        "rate": 40.35,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.53,
+        "minTax": 0
+      }
+    ],
+    "C5N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 7100,
+        "rate": 0.12,
+        "minTax": 0
+      },
+      {
+        "income": 7500,
+        "rate": 0.54,
+        "minTax": 0
+      },
+      {
+        "income": 9150,
+        "rate": 2.44,
+        "minTax": 0
+      },
+      {
+        "income": 10000,
+        "rate": 3.54,
+        "minTax": 0
+      },
+      {
+        "income": 13450,
+        "rate": 8.09,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 9.91,
+        "minTax": 0
+      },
+      {
+        "income": 17250,
+        "rate": 12.44,
+        "minTax": 0
+      },
+      {
+        "income": 20050,
+        "rate": 15.11,
+        "minTax": 0
+      },
+      {
+        "income": 22550,
+        "rate": 17.01,
+        "minTax": 0
+      },
+      {
+        "income": 25250,
+        "rate": 18.67,
+        "minTax": 0
+      },
+      {
+        "income": 29850,
+        "rate": 20.94,
+        "minTax": 0
+      },
+      {
+        "income": 33750,
+        "rate": 22.47,
+        "minTax": 0
+      },
+      {
+        "income": 39350,
+        "rate": 24.24,
+        "minTax": 0
+      },
+      {
+        "income": 45150,
+        "rate": 25.7,
+        "minTax": 0
+      },
+      {
+        "income": 51950,
+        "rate": 27.02,
+        "minTax": 0
+      },
+      {
+        "income": 65550,
+        "rate": 29.01,
+        "minTax": 0
+      },
+      {
+        "income": 82950,
+        "rate": 31.03,
+        "minTax": 0
+      },
+      {
+        "income": 91750,
+        "rate": 31.96,
+        "minTax": 0
+      },
+      {
+        "income": 106950,
+        "rate": 33.09,
+        "minTax": 0
+      },
+      {
+        "income": 131550,
+        "rate": 34.42,
+        "minTax": 0
+      },
+      {
+        "income": 157950,
+        "rate": 35.45,
+        "minTax": 0
+      },
+      {
+        "income": 192350,
+        "rate": 36.37,
+        "minTax": 0
+      },
+      {
+        "income": 237150,
+        "rate": 37.17,
+        "minTax": 0
+      },
+      {
+        "income": 301950,
+        "rate": 37.91,
+        "minTax": 0
+      },
+      {
+        "income": 402750,
+        "rate": 38.59,
+        "minTax": 0
+      },
+      {
+        "income": 559550,
+        "rate": 39.16,
+        "minTax": 0
+      },
+      {
+        "income": 828350,
+        "rate": 39.64,
+        "minTax": 0
+      },
+      {
+        "income": 1340350,
+        "rate": 40.01,
+        "minTax": 0
+      },
+      {
+        "income": 2441150,
+        "rate": 40.29,
+        "minTax": 0
+      },
+      {
+        "income": 6946750,
+        "rate": 40.51,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.52,
+        "minTax": 0
+      }
+    ],
+    "E0N": [
+      {
+        "income": 1,
+        "rate": 5,
+        "minTax": 0
+      }
+    ],
+    "G9N": [
+      {
+        "income": 0,
+        "rate": 7,
+        "minTax": 0
+      },
+      {
+        "income": 2000,
+        "rate": 7.21,
+        "minTax": 0
+      },
+      {
+        "income": 3000,
+        "rate": 7.42,
+        "minTax": 0
+      },
+      {
+        "income": 4000,
+        "rate": 7.9,
+        "minTax": 0
+      },
+      {
+        "income": 5000,
+        "rate": 8.2,
+        "minTax": 0
+      },
+      {
+        "income": 7250,
+        "rate": 9.12,
+        "minTax": 0
+      },
+      {
+        "income": 7500,
+        "rate": 9.2,
+        "minTax": 0
+      },
+      {
+        "income": 9750,
+        "rate": 10.39,
+        "minTax": 0
+      },
+      {
+        "income": 10000,
+        "rate": 10.49,
+        "minTax": 0
+      },
+      {
+        "income": 12500,
+        "rate": 11.83,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 12.73,
+        "minTax": 0
+      },
+      {
+        "income": 18650,
+        "rate": 14.12,
+        "minTax": 0
+      },
+      {
+        "income": 23750,
+        "rate": 15.36,
+        "minTax": 0
+      },
+      {
+        "income": 31450,
+        "rate": 16.45,
+        "minTax": 0
+      },
+      {
+        "income": 43250,
+        "rate": 17.38,
+        "minTax": 0
+      },
+      {
+        "income": 63550,
+        "rate": 18.17,
+        "minTax": 0
+      },
+      {
+        "income": 202350,
+        "rate": 18.41,
+        "minTax": 0
+      },
+      {
+        "income": 3844950,
+        "rate": 18.5,
+        "minTax": 0
+      }
+    ],
+    "H1N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 5950,
+        "rate": 0.12,
+        "minTax": 0
+      },
+      {
+        "income": 7150,
+        "rate": 2.15,
+        "minTax": 0
+      },
+      {
+        "income": 7500,
+        "rate": 2.78,
+        "minTax": 0
+      },
+      {
+        "income": 8750,
+        "rate": 5.02,
+        "minTax": 0
+      },
+      {
+        "income": 10000,
+        "rate": 6.91,
+        "minTax": 0
+      },
+      {
+        "income": 11950,
+        "rate": 9.54,
+        "minTax": 0
+      },
+      {
+        "income": 13800,
+        "rate": 11.72,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 12.97,
+        "minTax": 0
+      },
+      {
+        "income": 18600,
+        "rate": 16.59,
+        "minTax": 0
+      },
+      {
+        "income": 20550,
+        "rate": 18.21,
+        "minTax": 0
+      },
+      {
+        "income": 22950,
+        "rate": 19.81,
+        "minTax": 0
+      },
+      {
+        "income": 25850,
+        "rate": 21.34,
+        "minTax": 0
+      },
+      {
+        "income": 29750,
+        "rate": 23.07,
+        "minTax": 0
+      },
+      {
+        "income": 33750,
+        "rate": 24.45,
+        "minTax": 0
+      },
+      {
+        "income": 39050,
+        "rate": 25.95,
+        "minTax": 0
+      },
+      {
+        "income": 44950,
+        "rate": 27.27,
+        "minTax": 0
+      },
+      {
+        "income": 52350,
+        "rate": 28.5,
+        "minTax": 0
+      },
+      {
+        "income": 66150,
+        "rate": 30.27,
+        "minTax": 0
+      },
+      {
+        "income": 80350,
+        "rate": 31.71,
+        "minTax": 0
+      },
+      {
+        "income": 91150,
+        "rate": 32.82,
+        "minTax": 0
+      },
+      {
+        "income": 107350,
+        "rate": 33.9,
+        "minTax": 0
+      },
+      {
+        "income": 135550,
+        "rate": 35.23,
+        "minTax": 0
+      },
+      {
+        "income": 163550,
+        "rate": 36.15,
+        "minTax": 0
+      },
+      {
+        "income": 199550,
+        "rate": 36.96,
+        "minTax": 0
+      },
+      {
+        "income": 255550,
+        "rate": 37.77,
+        "minTax": 0
+      },
+      {
+        "income": 338750,
+        "rate": 38.47,
+        "minTax": 0
+      },
+      {
+        "income": 466750,
+        "rate": 39.06,
+        "minTax": 0
+      },
+      {
+        "income": 674750,
+        "rate": 39.54,
+        "minTax": 0
+      },
+      {
+        "income": 1084350,
+        "rate": 39.95,
+        "minTax": 0
+      },
+      {
+        "income": 2031550,
+        "rate": 40.27,
+        "minTax": 0
+      },
+      {
+        "income": 5308350,
+        "rate": 40.49,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.53,
+        "minTax": 0
+      }
+    ],
+    "H2N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 7450,
+        "rate": 0.12,
+        "minTax": 0
+      },
+      {
+        "income": 7500,
+        "rate": 0.19,
+        "minTax": 0
+      },
+      {
+        "income": 8800,
+        "rate": 1.99,
+        "minTax": 0
+      },
+      {
+        "income": 10000,
+        "rate": 3.92,
+        "minTax": 0
+      },
+      {
+        "income": 11550,
+        "rate": 6.14,
+        "minTax": 0
+      },
+      {
+        "income": 13850,
+        "rate": 9.17,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 10.51,
+        "minTax": 0
+      },
+      {
+        "income": 18450,
+        "rate": 14.18,
+        "minTax": 0
+      },
+      {
+        "income": 20450,
+        "rate": 16.08,
+        "minTax": 0
+      },
+      {
+        "income": 22850,
+        "rate": 17.91,
+        "minTax": 0
+      },
+      {
+        "income": 25550,
+        "rate": 19.55,
+        "minTax": 0
+      },
+      {
+        "income": 29950,
+        "rate": 21.68,
+        "minTax": 0
+      },
+      {
+        "income": 33750,
+        "rate": 23.15,
+        "minTax": 0
+      },
+      {
+        "income": 39750,
+        "rate": 24.98,
+        "minTax": 0
+      },
+      {
+        "income": 45550,
+        "rate": 26.38,
+        "minTax": 0
+      },
+      {
+        "income": 52350,
+        "rate": 27.63,
+        "minTax": 0
+      },
+      {
+        "income": 66550,
+        "rate": 29.59,
+        "minTax": 0
+      },
+      {
+        "income": 82750,
+        "rate": 31.39,
+        "minTax": 0
+      },
+      {
+        "income": 92150,
+        "rate": 32.37,
+        "minTax": 0
+      },
+      {
+        "income": 108350,
+        "rate": 33.5,
+        "minTax": 0
+      },
+      {
+        "income": 135950,
+        "rate": 34.88,
+        "minTax": 0
+      },
+      {
+        "income": 163550,
+        "rate": 35.85,
+        "minTax": 0
+      },
+      {
+        "income": 199550,
+        "rate": 36.71,
+        "minTax": 0
+      },
+      {
+        "income": 252350,
+        "rate": 37.53,
+        "minTax": 0
+      },
+      {
+        "income": 325950,
+        "rate": 38.23,
+        "minTax": 0
+      },
+      {
+        "income": 437950,
+        "rate": 38.84,
+        "minTax": 0
+      },
+      {
+        "income": 617150,
+        "rate": 39.36,
+        "minTax": 0
+      },
+      {
+        "income": 943550,
+        "rate": 39.8,
+        "minTax": 0
+      },
+      {
+        "income": 1673150,
+        "rate": 40.16,
+        "minTax": 0
+      },
+      {
+        "income": 3669950,
+        "rate": 40.41,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.53,
+        "minTax": 0
+      }
+    ],
+    "H3N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 8950,
+        "rate": 0.12,
+        "minTax": 0
+      },
+      {
+        "income": 10000,
+        "rate": 1.32,
+        "minTax": 0
+      },
+      {
+        "income": 10600,
+        "rate": 2.12,
+        "minTax": 0
+      },
+      {
+        "income": 12100,
+        "rate": 4.29,
+        "minTax": 0
+      },
+      {
+        "income": 14850,
+        "rate": 7.91,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 8.1,
+        "minTax": 0
+      },
+      {
+        "income": 18800,
+        "rate": 12.39,
+        "minTax": 0
+      },
+      {
+        "income": 21350,
+        "rate": 14.84,
+        "minTax": 0
+      },
+      {
+        "income": 23550,
+        "rate": 16.58,
+        "minTax": 0
+      },
+      {
+        "income": 26250,
+        "rate": 18.32,
+        "minTax": 0
+      },
+      {
+        "income": 29750,
+        "rate": 20.12,
+        "minTax": 0
+      },
+      {
+        "income": 33350,
+        "rate": 21.7,
+        "minTax": 0
+      },
+      {
+        "income": 38250,
+        "rate": 23.38,
+        "minTax": 0
+      },
+      {
+        "income": 43650,
+        "rate": 24.91,
+        "minTax": 0
+      },
+      {
+        "income": 50150,
+        "rate": 26.36,
+        "minTax": 0
+      },
+      {
+        "income": 58150,
+        "rate": 27.68,
+        "minTax": 0
+      },
+      {
+        "income": 69350,
+        "rate": 29.22,
+        "minTax": 0
+      },
+      {
+        "income": 83950,
+        "rate": 30.94,
+        "minTax": 0
+      },
+      {
+        "income": 92950,
+        "rate": 31.91,
+        "minTax": 0
+      },
+      {
+        "income": 108350,
+        "rate": 33.05,
+        "minTax": 0
+      },
+      {
+        "income": 131950,
+        "rate": 34.33,
+        "minTax": 0
+      },
+      {
+        "income": 157550,
+        "rate": 35.35,
+        "minTax": 0
+      },
+      {
+        "income": 190750,
+        "rate": 36.27,
+        "minTax": 0
+      },
+      {
+        "income": 236350,
+        "rate": 37.11,
+        "minTax": 0
+      },
+      {
+        "income": 300350,
+        "rate": 37.86,
+        "minTax": 0
+      },
+      {
+        "income": 399550,
+        "rate": 38.55,
+        "minTax": 0
+      },
+      {
+        "income": 559550,
+        "rate": 39.14,
+        "minTax": 0
+      },
+      {
+        "income": 828350,
+        "rate": 39.62,
+        "minTax": 0
+      },
+      {
+        "income": 1289150,
+        "rate": 39.98,
+        "minTax": 0
+      },
+      {
+        "income": 2441150,
+        "rate": 40.29,
+        "minTax": 0
+      },
+      {
+        "income": 6946750,
+        "rate": 40.5,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.52,
+        "minTax": 0
+      }
+    ],
+    "H4N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 10450,
+        "rate": 0.12,
+        "minTax": 0
+      },
+      {
+        "income": 11900,
+        "rate": 1.63,
+        "minTax": 0
+      },
+      {
+        "income": 14150,
+        "rate": 4.66,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 5.76,
+        "minTax": 0
+      },
+      {
+        "income": 17850,
+        "rate": 9.16,
+        "minTax": 0
+      },
+      {
+        "income": 20250,
+        "rate": 11.85,
+        "minTax": 0
+      },
+      {
+        "income": 23250,
+        "rate": 14.56,
+        "minTax": 0
+      },
+      {
+        "income": 25950,
+        "rate": 16.52,
+        "minTax": 0
+      },
+      {
+        "income": 28850,
+        "rate": 18.22,
+        "minTax": 0
+      },
+      {
+        "income": 33350,
+        "rate": 20.38,
+        "minTax": 0
+      },
+      {
+        "income": 37450,
+        "rate": 21.95,
+        "minTax": 0
+      },
+      {
+        "income": 43250,
+        "rate": 23.76,
+        "minTax": 0
+      },
+      {
+        "income": 49750,
+        "rate": 25.36,
+        "minTax": 0
+      },
+      {
+        "income": 57150,
+        "rate": 26.73,
+        "minTax": 0
+      },
+      {
+        "income": 70150,
+        "rate": 28.63,
+        "minTax": 0
+      },
+      {
+        "income": 92150,
+        "rate": 31.31,
+        "minTax": 0
+      },
+      {
+        "income": 106750,
+        "rate": 32.49,
+        "minTax": 0
+      },
+      {
+        "income": 126350,
+        "rate": 33.66,
+        "minTax": 0
+      },
+      {
+        "income": 149150,
+        "rate": 34.72,
+        "minTax": 0
+      },
+      {
+        "income": 178750,
+        "rate": 35.7,
+        "minTax": 0
+      },
+      {
+        "income": 218750,
+        "rate": 36.6,
+        "minTax": 0
+      },
+      {
+        "income": 274750,
+        "rate": 37.42,
+        "minTax": 0
+      },
+      {
+        "income": 351550,
+        "rate": 38.12,
+        "minTax": 0
+      },
+      {
+        "income": 469950,
+        "rate": 38.75,
+        "minTax": 0
+      },
+      {
+        "income": 655550,
+        "rate": 39.28,
+        "minTax": 0
+      },
+      {
+        "income": 981950,
+        "rate": 39.73,
+        "minTax": 0
+      },
+      {
+        "income": 1673150,
+        "rate": 40.1,
+        "minTax": 0
+      },
+      {
+        "income": 3465150,
+        "rate": 40.37,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.52,
+        "minTax": 0
+      }
+    ],
+    "H5N": [
+      {
+        "income": 0,
+        "rate": 0,
+        "minTax": 0
+      },
+      {
+        "income": 11950,
+        "rate": 0.12,
+        "minTax": 0
+      },
+      {
+        "income": 13200,
+        "rate": 1.3,
+        "minTax": 0
+      },
+      {
+        "income": 15000,
+        "rate": 3.6,
+        "minTax": 0
+      },
+      {
+        "income": 20250,
+        "rate": 9.88,
+        "minTax": 0
+      },
+      {
+        "income": 22350,
+        "rate": 11.95,
+        "minTax": 0
+      },
+      {
+        "income": 25050,
+        "rate": 14.23,
+        "minTax": 0
+      },
+      {
+        "income": 27750,
+        "rate": 16.1,
+        "minTax": 0
+      },
+      {
+        "income": 30850,
+        "rate": 17.85,
+        "minTax": 0
+      },
+      {
+        "income": 35350,
+        "rate": 19.95,
+        "minTax": 0
+      },
+      {
+        "income": 39650,
+        "rate": 21.55,
+        "minTax": 0
+      },
+      {
+        "income": 45250,
+        "rate": 23.28,
+        "minTax": 0
+      },
+      {
+        "income": 50950,
+        "rate": 24.71,
+        "minTax": 0
+      },
+      {
+        "income": 57950,
+        "rate": 26.07,
+        "minTax": 0
+      },
+      {
+        "income": 71150,
+        "rate": 28.08,
+        "minTax": 0
+      },
+      {
+        "income": 90350,
+        "rate": 30.57,
+        "minTax": 0
+      },
+      {
+        "income": 101550,
+        "rate": 31.63,
+        "minTax": 0
+      },
+      {
+        "income": 118150,
+        "rate": 32.8,
+        "minTax": 0
+      },
+      {
+        "income": 143550,
+        "rate": 34.15,
+        "minTax": 0
+      },
+      {
+        "income": 172350,
+        "rate": 35.23,
+        "minTax": 0
+      },
+      {
+        "income": 210750,
+        "rate": 36.21,
+        "minTax": 0
+      },
+      {
+        "income": 261950,
+        "rate": 37.08,
+        "minTax": 0
+      },
+      {
+        "income": 335550,
+        "rate": 37.85,
+        "minTax": 0
+      },
+      {
+        "income": 444350,
+        "rate": 38.53,
+        "minTax": 0
+      },
+      {
+        "income": 597950,
+        "rate": 39.07,
+        "minTax": 0
+      },
+      {
+        "income": 866750,
+        "rate": 39.55,
+        "minTax": 0
+      },
+      {
+        "income": 1417150,
+        "rate": 39.98,
+        "minTax": 0
+      },
+      {
+        "income": 2748350,
+        "rate": 40.29,
+        "minTax": 0
+      },
+      {
+        "income": 7356350,
+        "rate": 40.5,
+        "minTax": 0
+      },
+      {
+        "income": 8175550,
+        "rate": 40.51,
+        "minTax": 0
+      }
+    ],
+    "L0N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "L1N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "L2N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "L3N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "L4N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "L5N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "M0N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "M1N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "M2N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "M3N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "M4N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "M5N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "N0N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "N1N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "N2N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "N3N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "N4N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "N5N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "P1N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "P2N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "P3N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "P4N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "P5N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ],
+    "Q9N": [
+      {
+        "income": 1,
+        "rate": 4.5,
+        "minTax": 0
+      }
+    ]
+  }
+}
