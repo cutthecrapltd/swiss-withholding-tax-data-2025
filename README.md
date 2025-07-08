@@ -29,12 +29,3 @@ const loadCantonData = async (cantonCode) => {
   const response = await fetch(`${BASE_URL}/${cantonCode}_withholding.json`);
   return await response.json();
 };
-Data Format
-Each canton file contains:
-
-Tariff codes (A0N, B1Y, etc.)
-Income breakpoints
-Tax rates
-Minimum tax amounts
-License
-MIT License
